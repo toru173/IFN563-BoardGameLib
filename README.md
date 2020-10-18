@@ -14,4 +14,6 @@ All features requested in the design documentation have been implemented. The fe
 - Moves can be undone and redone. Loaded games offer the same functionality; a user can play a game almost to completion, save the game, undo everything and then load the saved game
 - The game provides for inline help, including information about the game, valid moves, how to use the interface and warning or error messages if the user attempts to make an illegal move
 
-All the above features have been implemented for the board game Gomoku; however, advanced Gomoku rules (such as Swap2 or the disallowance of overlines) have not been implemented.
+All the above features have been implemented for the board game Gomoku; however, advanced Gomoku rules (such as Swap2 or the disallowance of overlines) have not been implemented. As a proof of the reusability of the library, Tic Tac Toe was also implimented:
+
+![](https://github.com/toru173/IFN563-BoardGameLib/blob/main/Tic%20Tac%20Toe%20Example%20.png)
