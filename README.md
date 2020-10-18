@@ -1,5 +1,5 @@
 # IFN563-BoardGameLib
- A C# Library for creating BoardGames for Queensland University of Technology's IFN563 (Object Oriented Design). The Library (BoardGameLibs.cs) is designed to be reusable between a large number of two dimensional, two player board games.
+ A C# Library for creating Board Games for Queensland University of Technology's IFN563 (Object Oriented Design). The Library (BoardGameLibs.cs) is designed to be reusable between a large number of two dimensional, two player board games.
 
 All features requested in the design documentation have been implemented. The features outlined by the design brief were as follows:
 
