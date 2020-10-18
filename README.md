@@ -16,4 +16,4 @@ All features requested in the design documentation have been implemented. The fe
 
 All the above features have been implemented for the board game Gomoku; however, advanced Gomoku rules (such as Swap2 or the disallowance of overlines) have not been implemented. As a proof of the reusability of the library, Tic Tac Toe was also implimented:
 
-![](https://github.com/toru173/IFN563-BoardGameLib/blob/main/Tic%20Tac%20Toe%20Example%20.png)
+![](https://github.com/toru173/IFN563-BoardGameLib/blob/main/Tic%20Tac%20Toe%20Example.png)
